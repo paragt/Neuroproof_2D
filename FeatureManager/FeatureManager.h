@@ -15,8 +15,8 @@
 
 #include "../Classifier/vigraRFclassifier.h"
 #include "../Classifier/opencvRFclassifier.h"
-#include "../Classifier/opencvABclassifier.h"
-#include "../Classifier/opencvSVMclassifier.h"
+// #include "../Classifier/opencvABclassifier.h"
+// #include "../Classifier/opencvSVMclassifier.h"
 
 // node features and edge features -- different amounts ??!!
 
